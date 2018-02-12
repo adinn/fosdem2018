@@ -21,4 +21,4 @@ made available under the Creative Commons CC BY-ND License
 see https://creativecommons.org/licenses/by-nc/4.0/
 
 The video of the talk has been made available by FOSDEM on Youtube at
-https://developers.redhat.com/blog/wp-admin/post-new.php
+https://www.youtube.com/watch?v=jsJtZdYhQuE
