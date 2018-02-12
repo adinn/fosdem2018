@@ -19,3 +19,6 @@ All material supplied here is copyright Andrew Dinn and Red Hat and is
 made available under the Creative Commons CC BY-ND License
 
 see https://creativecommons.org/licenses/by-nc/4.0/
+
+The video of the talk has been made available by FOSDEM on Youtube at
+https://developers.redhat.com/blog/wp-admin/post-new.php
